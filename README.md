@@ -12,9 +12,9 @@ A smart chatbot application built with C# and Windows Forms that uses Groq API t
 ## Screenshots
 
 
-![Arabic](ScreenShots/Arabic.png)
+![Arabic](Chat-bot/ScreenShots/Arabic.png)
 
-![English ](ScreenShots/English.png)
+![English ](Chat-bot/ScreenShots/English.png)
 
 ## Requirements
 
